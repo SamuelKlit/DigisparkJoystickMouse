@@ -1,9 +1,9 @@
 # DigisparkJoystickMouse
-A short piece of code for a video to make a HID mouse using a joystick and Digispark.
+Use a joystick with the Digispark ATTINY85 to emulate an HID mouse!
 
-The first 4-5 clicks will slow down the mouse until it eventually reset to it's normal speed.
-The click functionality can easily be changed to a mouse click instead. 
+The first 4-5 clicks will slow down the mouse until it eventually reset to its normal speed.
+The click functionality can easily be changed to fx. right-click instead. 
 
 # Video
-The code is regarding this project where it can be seen in action and the hardware required.
+See the code in action with the hardware here:
 https://youtu.be/MEOkIJvoCjE
